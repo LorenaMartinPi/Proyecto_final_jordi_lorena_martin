@@ -1,0 +1,8 @@
+
+miguel|martin|fernandez|12334455W|Informatica 
+pepe|martin|piñero|12111111E|informatica
+pepe|pepe|pepe|12432222Q|Informatica
+
+
+
+
